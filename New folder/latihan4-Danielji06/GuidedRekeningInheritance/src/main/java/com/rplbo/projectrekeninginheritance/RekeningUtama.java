@@ -1,0 +1,12 @@
+package com.rplbo.projectrekeninginheritance;
+
+public class RekeningUtama extends RekeningKeluarga{
+    public RekeningUtama(Nasabah nasabah) {
+        
+    }
+
+    public RekeningUtama(Nasabah nasabah, int saldo) {
+       
+    }
+
+}
